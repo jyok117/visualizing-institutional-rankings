@@ -4,6 +4,10 @@ DS 650 Data Visualization : Visualizing Institutional Rankings
 ## Objective
 This project aims to create an interactive dashboard for analyzing university rankings using various key metrics. The dashboard leverages data visualization techniques to help prospective students and their families make informed decisions about higher education institutions. The visualizations include university admission rates, SAT scores, financial information, student demographics, and other relevant data points.
 
+You can check the [visualizations](./Visualizations) and the [report](./Deliverable_1.pdf).
+
+![Dashboard](./Visualizations/Visualizations-000.png)
+
 ## Visualization Tasks
 1. **Diversity Across University Ranks**
    - Bar Chart vs. Stacked Bar Chart
